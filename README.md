@@ -1,5 +1,7 @@
 # ApnaBazzar
 Apna Bazzar - MERN Stack Ecommerce Project
+![image](https://github.com/mayank8029/Apana-Bazar/assets/90167664/1d64c2f5-1172-4f70-9fed-3f3f0062d128)
+
 Apna Bazzar
 
 Apna Bazzar is a full-stack ecommerce project built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides a robust and scalable solution for building an online marketplace with features like product listing, user authentication, shopping cart functionality, and more.
