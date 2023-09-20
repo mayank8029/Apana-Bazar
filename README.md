@@ -1,4 +1,3 @@
-# ApnaBazzar
 Apna Bazzar - MERN Stack Ecommerce Project
 ![image](https://github.com/mayank8029/Apana-Bazar/assets/90167664/1d64c2f5-1172-4f70-9fed-3f3f0062d128)
 
@@ -12,7 +11,8 @@ Backend: Express.js, MongoDB Atlas (online database), Cloudinary (cloud-based im
 Authentication: JSON Web Token (JWT).
 Password Recovery: Nodemailer.
 Password Hashing: Bcrypt.
-Project Structure
+
+Project Structure:
 The project follows a modular structure to keep the codebase organized and maintainable. Here's an overview of the main directories and files:
 
 /frontend: Contains the frontend codebase built with React.js. This directory includes components, routes, Redux store, and other related files for the user interface.
